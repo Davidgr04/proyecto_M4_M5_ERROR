@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "+TLU/U/+Yz0cjmblWsQwS0pfnm8RJaYBNmo7EByDv+U1tFMVVOxpw/vwT/+dW2UYMu8rTywQeyGnUStmvXssNw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\FaZePK\\Desktop\\ETP Xavier\\Repositorios github\\FootballMatchesApp\\proyecto_M4_M5\\proyecto M4-M5.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\FaZePK\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\FaZePK\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\FaZePK\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\FaZePK\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\FaZePK\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.16\\microsoft.netcore.app.host.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

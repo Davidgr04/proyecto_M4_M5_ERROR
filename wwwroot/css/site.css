@@ -1,0 +1,32 @@
+html {
+    flex-direction: auto;
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+html {
+    flex-direction: auto;
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    flex-direction: auto;
+    margin-bottom: 60px;
+    background: url(https://images6.alphacoders.com/924/thumbbig-924478.webp) center center / cover no-repeat;
+}
+
+img {
+    flex-direction: column;
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+    position: relative;
+    width: 550px;
+    border: 5px solid #0a0b0b;
+}

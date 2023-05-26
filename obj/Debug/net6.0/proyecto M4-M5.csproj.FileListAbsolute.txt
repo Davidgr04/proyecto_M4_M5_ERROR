@@ -1,0 +1,127 @@
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\bin\Debug\net6.0\appsettings.json
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\bin\Debug\net6.0\proyecto M4-M5.staticwebassets.runtime.json
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\bin\Debug\net6.0\proyecto M4-M5.exe
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\bin\Debug\net6.0\proyecto M4-M5.deps.json
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\bin\Debug\net6.0\proyecto M4-M5.runtimeconfig.json
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\bin\Debug\net6.0\proyecto M4-M5.dll
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\bin\Debug\net6.0\proyecto M4-M5.pdb
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.csproj.AssemblyReference.cache
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.AssemblyInfoInputs.cache
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.AssemblyInfo.cs
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.csproj.CoreCompileInputs.cache
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.RazorAssemblyInfo.cache
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.RazorAssemblyInfo.cs
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\scopedcss\bundle\proyecto M4-M5.styles.css
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\scopedcss\projectbundle\proyecto M4-M5.bundle.scp.css
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.csproj.CopyComplete
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.dll
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\refint\proyecto M4-M5.dll
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.pdb
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\proyecto M4-M5.genruntimeconfig.cache
+C:\Users\danlu\OneDrive\Público\Escritorio\proyecto M4-M5\obj\Debug\net6.0\ref\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\bin\Debug\net6.0\appsettings.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\bin\Debug\net6.0\proyecto M4-M5.staticwebassets.runtime.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\bin\Debug\net6.0\proyecto M4-M5.exe
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\bin\Debug\net6.0\proyecto M4-M5.deps.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\bin\Debug\net6.0\proyecto M4-M5.runtimeconfig.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\bin\Debug\net6.0\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\bin\Debug\net6.0\proyecto M4-M5.pdb
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.csproj.AssemblyReference.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.AssemblyInfoInputs.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.AssemblyInfo.cs
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.csproj.CoreCompileInputs.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.RazorAssemblyInfo.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.RazorAssemblyInfo.cs
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\staticwebassets\msbuild.proyecto M4-M5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\staticwebassets\msbuild.build.proyecto M4-M5.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.proyecto M4-M5.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.proyecto M4-M5.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\scopedcss\bundle\proyecto M4-M5.styles.css
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\scopedcss\projectbundle\proyecto M4-M5.bundle.scp.css
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.csproj.CopyComplete
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\refint\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.pdb
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\proyecto M4-M5.genruntimeconfig.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyectoM4-M5david\obj\Debug\net6.0\ref\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.csproj.AssemblyReference.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.AssemblyInfoInputs.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.AssemblyInfo.cs
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.csproj.CoreCompileInputs.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.RazorAssemblyInfo.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.RazorAssemblyInfo.cs
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\refint\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.pdb
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\bin\Debug\net6.0\appsettings.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.staticwebassets.runtime.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.exe
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.deps.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.runtimeconfig.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.pdb
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets\msbuild.proyecto M4-M5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets\msbuild.build.proyecto M4-M5.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.proyecto M4-M5.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.proyecto M4-M5.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\scopedcss\bundle\proyecto M4-M5.styles.css
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\scopedcss\projectbundle\proyecto M4-M5.bundle.scp.css
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.csproj.CopyComplete
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.genruntimeconfig.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\FootballMatchesApp\proyecto_M4_M5\obj\Debug\net6.0\ref\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\bin\Debug\net6.0\appsettings.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.staticwebassets.runtime.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.exe
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.deps.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.runtimeconfig.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\bin\Debug\net6.0\proyecto M4-M5.pdb
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.csproj.AssemblyReference.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.AssemblyInfoInputs.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.AssemblyInfo.cs
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.csproj.CoreCompileInputs.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.RazorAssemblyInfo.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.RazorAssemblyInfo.cs
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets\msbuild.proyecto M4-M5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets\msbuild.build.proyecto M4-M5.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.proyecto M4-M5.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.proyecto M4-M5.props
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\scopedcss\bundle\proyecto M4-M5.styles.css
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\scopedcss\projectbundle\proyecto M4-M5.bundle.scp.css
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.csproj.CopyComplete
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\refint\proyecto M4-M5.dll
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.pdb
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\proyecto M4-M5.genruntimeconfig.cache
+C:\Users\FaZePK\Desktop\ETP Xavier\Repositorios github\proyecto_M4_M5\obj\Debug\net6.0\ref\proyecto M4-M5.dll
